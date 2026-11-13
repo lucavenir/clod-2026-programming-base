@@ -1,0 +1,73 @@
+numero,studente,traccia,esercizio,esito,test_superati,test_falliti,test_previsti,file
+1,AKI KOMI SYLVAIN,A,1,Non compila,,,8,test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs
+1,AKI KOMI SYLVAIN,A,2,Non compila,,,4,test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs
+1,AKI KOMI SYLVAIN,A,3,Non compila,,,2,test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs
+2,BON DANIEL,B,1,Test eseguiti,3,2,5,test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs
+2,BON DANIEL,B,2,Test eseguiti,4,0,4,test/correzioni/02_daniel_bon_B/E2_CORREZIONE.cs
+2,BON DANIEL,B,3,Test eseguiti,2,0,2,test/correzioni/02_daniel_bon_B/E3_CORREZIONE.cs
+3,CALÒ CAMILLA,C,1,Test eseguiti,4,1,5,test/correzioni/03_camilla_calo_C/E1_CORREZIONE.cs
+3,CALÒ CAMILLA,C,2,Test eseguiti,3,0,3,test/correzioni/03_camilla_calo_C/E2_CORREZIONE.cs
+3,CALÒ CAMILLA,C,3,Non compila,,,2,test/correzioni/03_camilla_calo_C/E3_CORREZIONE.cs
+4,CECHET DEVIS,D,1,Test eseguiti,5,0,5,test/correzioni/04_devis_cechet_D/E1_CORREZIONE.cs
+4,CECHET DEVIS,D,2,Test eseguiti,3,0,3,test/correzioni/04_devis_cechet_D/E2_CORREZIONE.cs
+4,CECHET DEVIS,D,3,Test eseguiti,3,0,3,test/correzioni/04_devis_cechet_D/E3_CORREZIONE.cs
+5,CHAKICH MOHAMAD,E,1,Non compila,,,5,test/correzioni/05_mohamad_chakich_E/E1_CORREZIONE.cs
+5,CHAKICH MOHAMAD,E,2,Non compila,,,2,test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs
+5,CHAKICH MOHAMAD,E,3,Non consegnato,,,2,test/correzioni/05_mohamad_chakich_E/E3_CORREZIONE.cs
+6,CILUFFO ALEX,F,1,Non consegnato,,,4,test/correzioni/06_alex_ciluffo_F/E1_CORREZIONE.cs
+6,CILUFFO ALEX,F,2,Non consegnato,,,3,test/correzioni/06_alex_ciluffo_F/E2_CORREZIONE.cs
+6,CILUFFO ALEX,F,3,Non consegnato,,,1,test/correzioni/06_alex_ciluffo_F/E3_CORREZIONE.cs
+7,DE MARCHI NICOLA MARIO,A,1,Test eseguiti,8,0,8,test/correzioni/07_nicola_mario_de_marchi_A/E1_CORREZIONE.cs
+7,DE MARCHI NICOLA MARIO,A,2,Test eseguiti,4,0,4,test/correzioni/07_nicola_mario_de_marchi_A/E2_CORREZIONE.cs
+7,DE MARCHI NICOLA MARIO,A,3,Test eseguiti,2,0,2,test/correzioni/07_nicola_mario_de_marchi_A/E3_CORREZIONE.cs
+8,EPIE DIMITRI EWANG,B,1,Test eseguiti,2,3,5,test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs
+8,EPIE DIMITRI EWANG,B,2,Non compila,,,4,test/correzioni/08_dimitri_ewang_epie_B/E2_CORREZIONE.cs
+8,EPIE DIMITRI EWANG,B,3,Non compila,,,2,test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs
+9,FRANZONI GABRIELE,C,1,Test eseguiti,5,0,5,test/correzioni/09_gabriele_franzoni_C/E1_CORREZIONE.cs
+9,FRANZONI GABRIELE,C,2,Non compila,,,3,test/correzioni/09_gabriele_franzoni_C/E2_CORREZIONE.cs
+9,FRANZONI GABRIELE,C,3,Non compila,,,2,test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs
+10,GRATTONI GABRIELE,D,1,Test eseguiti,5,0,5,test/correzioni/10_gabriele_grattoni_D/E1_CORREZIONE.cs
+10,GRATTONI GABRIELE,D,2,Test eseguiti,3,0,3,test/correzioni/10_gabriele_grattoni_D/E2_CORREZIONE.cs
+10,GRATTONI GABRIELE,D,3,Test eseguiti,3,0,3,test/correzioni/10_gabriele_grattoni_D/E3_CORREZIONE.cs
+11,GRIZZO ROSSANA,E,1,Test eseguiti,5,0,5,test/correzioni/11_rossana_grizzo_E/E1_CORREZIONE.cs
+11,GRIZZO ROSSANA,E,2,Test eseguiti,2,0,2,test/correzioni/11_rossana_grizzo_E/E2_CORREZIONE.cs
+11,GRIZZO ROSSANA,E,3,Test eseguiti,2,0,2,test/correzioni/11_rossana_grizzo_E/E3_CORREZIONE.cs
+12,LACCHIN FILIPPO,F,1,Non compila,,,4,test/correzioni/12_filippo_lacchin_F/E1_CORREZIONE.cs
+12,LACCHIN FILIPPO,F,2,Non compila,,,3,test/correzioni/12_filippo_lacchin_F/E2_CORREZIONE.cs
+12,LACCHIN FILIPPO,F,3,Non compila,,,1,test/correzioni/12_filippo_lacchin_F/E3_CORREZIONE.cs
+13,MANIAS LUCA,A,1,Test eseguiti,8,0,8,test/correzioni/13_luca_manias_A/E1_CORREZIONE.cs
+13,MANIAS LUCA,A,2,Non compila,,,4,test/correzioni/13_luca_manias_A/E2_CORREZIONE.cs
+13,MANIAS LUCA,A,3,Non compila,,,2,test/correzioni/13_luca_manias_A/E3_CORREZIONE.cs
+14,MASTRO CLAUDIO,B,1,Test eseguiti,5,0,5,test/correzioni/14_claudio_mastro_B/E1_CORREZIONE.cs
+14,MASTRO CLAUDIO,B,2,Test eseguiti,3,1,4,test/correzioni/14_claudio_mastro_B/E2_CORREZIONE.cs
+14,MASTRO CLAUDIO,B,3,Test eseguiti,2,0,2,test/correzioni/14_claudio_mastro_B/E3_CORREZIONE.cs
+15,MEHNI NOUFAL,C,1,Non compila,,,5,test/correzioni/15_noufal_mehni_C/E1_CORREZIONE.cs
+15,MEHNI NOUFAL,C,2,Non compila,,,3,test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs
+15,MEHNI NOUFAL,C,3,Non compila,,,2,test/correzioni/15_noufal_mehni_C/E3_CORREZIONE.cs
+16,NARDER ALBERTO,D,1,Non compila,,,5,test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs
+16,NARDER ALBERTO,D,2,Non compila,,,3,test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs
+16,NARDER ALBERTO,D,3,Non compila,,,3,test/correzioni/16_alberto_narder_D/E3_CORREZIONE.cs
+17,NERI LEONARDO,E,1,Test eseguiti,5,0,5,test/correzioni/17_leonardo_neri_E/E1_CORREZIONE.cs
+17,NERI LEONARDO,E,2,Test eseguiti,2,0,2,test/correzioni/17_leonardo_neri_E/E2_CORREZIONE.cs
+17,NERI LEONARDO,E,3,Test eseguiti,1,1,2,test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs
+18,NOGARÈ LEONARDO,F,1,Test eseguiti,4,0,4,test/correzioni/18_leonardo_nogare_F/E1_CORREZIONE.cs
+18,NOGARÈ LEONARDO,F,2,Test eseguiti,3,0,3,test/correzioni/18_leonardo_nogare_F/E2_CORREZIONE.cs
+18,NOGARÈ LEONARDO,F,3,Test eseguiti,1,0,1,test/correzioni/18_leonardo_nogare_F/E3_CORREZIONE.cs
+19,PARO GIOVANNI,A,1,Test eseguiti,5,3,8,test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs
+19,PARO GIOVANNI,A,2,Test eseguiti,3,1,4,test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs
+19,PARO GIOVANNI,A,3,Non compila,,,2,test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs
+20,PINATO EDDY,B,1,Non compila,,,5,test/correzioni/20_eddy_pinato_B/E1_CORREZIONE.cs
+20,PINATO EDDY,B,2,Non compila,,,4,test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs
+20,PINATO EDDY,B,3,Non compila,,,2,test/correzioni/20_eddy_pinato_B/E3_CORREZIONE.cs
+21,SANTONI CHIARA,C,1,Non compila,,,5,test/correzioni/21_chiara_santoni_C/E1_CORREZIONE.cs
+21,SANTONI CHIARA,C,2,Non compila,,,3,test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs
+21,SANTONI CHIARA,C,3,Non compila,,,2,test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs
+22,SOLONYSHYN MAKSYM,D,1,Test eseguiti,5,0,5,test/correzioni/22_maksym_solonyshyn_D/E1_CORREZIONE.cs
+22,SOLONYSHYN MAKSYM,D,2,Test eseguiti,3,0,3,test/correzioni/22_maksym_solonyshyn_D/E2_CORREZIONE.cs
+22,SOLONYSHYN MAKSYM,D,3,Test eseguiti,3,0,3,test/correzioni/22_maksym_solonyshyn_D/E3_CORREZIONE.cs
+23,SPINA MATTEO,E,1,Test eseguiti,5,0,5,test/correzioni/23_matteo_spina_E/E1_CORREZIONE.cs
+23,SPINA MATTEO,E,2,Test eseguiti,2,0,2,test/correzioni/23_matteo_spina_E/E2_CORREZIONE.cs
+23,SPINA MATTEO,E,3,Test eseguiti,2,0,2,test/correzioni/23_matteo_spina_E/E3_CORREZIONE.cs
+24,TEGON MOIRA,F,1,Test eseguiti,4,0,4,test/correzioni/24_moira_tegon_F/E1_CORREZIONE.cs
+24,TEGON MOIRA,F,2,Test eseguiti,2,1,3,test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs
+24,TEGON MOIRA,F,3,Test eseguiti,1,0,1,test/correzioni/24_moira_tegon_F/E3_CORREZIONE.cs

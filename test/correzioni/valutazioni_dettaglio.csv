@@ -1,0 +1,73 @@
+﻿Numero;Studente;Traccia;Esercizio;Stato;Test superati;Test falliti;Test previsti;Correttezza;Leggibilita / 4;Ordine / 4;Sensatezza / 4;Codice / 12;Malus piccoli errori;Malus nomi funzioni;Annotazioni codice;Interventi;File valutato
+1;AKI KOMI SYLVAIN;A;1;Non compila;;;8;0,00;;;;2;0;0;"Punteggio codice allineato al foglio del docente; sottopunteggi non specificati.";;test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs
+1;AKI KOMI SYLVAIN;A;2;Non compila;;;4;0,00;;;;0;0;0;"Punteggio codice allineato al foglio del docente; sottopunteggi non specificati.";;test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs
+1;AKI KOMI SYLVAIN;A;3;Non compila;;;2;0,00;;;;0;0;0;"Punteggio codice allineato al foglio del docente; sottopunteggi non specificati.";;test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs
+2;BON DANIEL;B;1;Test eseguiti;3;2;5;10,80;2;2;3;7;0;0;Nomi comprensibili, ma indentazione a cascata e stile non uniforme.;;test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs
+2;BON DANIEL;B;2;Test eseguiti;4;0;4;23,00;2;3;2;7;0;0;"Flusso breve; nome preweus_element poco chiaro e primo elemento escluso confrontando i valori.";;test/correzioni/02_daniel_bon_B/E2_CORREZIONE.cs
+2;BON DANIEL;B;3;Test eseguiti;2;0;2;23,00;3;4;4;11;0;0;"Raggruppamento lineare e ben separato; nome Final poco descrittivo.";;test/correzioni/02_daniel_bon_B/E3_CORREZIONE.cs
+3;CALÒ CAMILLA;C;1;Test eseguiti;4;1;5;14,40;4;3;3;10;0;0;"Codice leggibile; if indipendenti rendono poco esplicita la priorità delle regole.";;test/correzioni/03_camilla_calo_C/E1_CORREZIONE.cs
+3;CALÒ CAMILLA;C;2;Test eseguiti;3;0;3;23,00;4;3;1;8;0;0;Ciclo ordinato, ma ricrea la lista a ogni iterazione invece di accumulare gli elementi.;;test/correzioni/03_camilla_calo_C/E2_CORREZIONE.cs
+3;CALÒ CAMILLA;C;3;Test eseguiti;1;1;2;11,50;4;4;2;10;-2;0;"Mappa e ciclo ordinati; = + 1 esprime una riassegnazione anziché un accumulo.";Uniformato statusCodes a statuscodes (2 riferimenti). Lasciato invariato = + 1: errore logico valutato dai test.;test/correzioni/03_camilla_calo_C/E3_corretto.cs
+4;CECHET DEVIS;D;1;Test eseguiti;5;0;5;18,00;4;4;3;11;0;0;"Rami chiari; controlli di non divisibilità ridondanti dopo il caso comune.";;test/correzioni/04_devis_cechet_D/E1_CORREZIONE.cs
+4;CECHET DEVIS;D;2;Test eseguiti;3;0;3;23,00;4;4;4;12;0;0;Accumulo semplice, nomi chiari e blocchi ordinati.;;test/correzioni/04_devis_cechet_D/E2_CORREZIONE.cs
+4;CECHET DEVIS;D;3;Test eseguiti;3;0;3;23,00;4;4;3;11;0;0;"Codice chiaro; ricerca sequenziale della chiave invece di accesso diretto alla mappa.";;test/correzioni/04_devis_cechet_D/E3_CORREZIONE.cs
+5;CHAKICH MOHAMAD;E;1;Test eseguiti;5;0;5;18,00;2;2;3;7;0;-1;"Rami comprensibili; indentazione irregolare, molti vuoti e else con istruzione vuota.";"Rinominata solo ClassifyPingLatecy in ClassifyPingLatency. else; conservato: warning, non blocca i test.";test/correzioni/05_mohamad_chakich_E/E1_corretto.cs
+5;CHAKICH MOHAMAD;E;2;Non compila;;;2;0,00;1;0;0;1;0;0;Due dichiarazioni scollegate e ciclo senza corpo operativo.;;test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs
+5;CHAKICH MOHAMAD;E;3;Non consegnato;;;2;0,00;0;0;0;0;0;0;Esercizio non consegnato.;;test/correzioni/05_mohamad_chakich_E/E3_CORREZIONE.cs
+6;CILUFFO ALEX;F;1;Non consegnato;;;4;0,00;0;0;0;0;0;0;Tutto a zero su indicazione del docente.;;test/correzioni/06_alex_ciluffo_F/E1_CORREZIONE.cs
+6;CILUFFO ALEX;F;2;Non consegnato;;;3;0,00;0;0;0;0;0;0;Tutto a zero su indicazione del docente.;;test/correzioni/06_alex_ciluffo_F/E2_CORREZIONE.cs
+6;CILUFFO ALEX;F;3;Non consegnato;;;1;0,00;0;0;0;0;0;0;Tutto a zero su indicazione del docente.;;test/correzioni/06_alex_ciluffo_F/E3_CORREZIONE.cs
+7;DE MARCHI NICOLA MARIO;A;1;Test eseguiti;8;0;8;18,00;3;4;4;11;0;0;"Flusso diretto e priorità esplicite; spaziatura compatta e non uniforme.";;test/correzioni/07_nicola_mario_de_marchi_A/E1_CORREZIONE.cs
+7;DE MARCHI NICOLA MARIO;A;2;Test eseguiti;4;0;4;23,00;4;4;4;12;0;0;Scansione e aggiornamento dell’indice chiari, senza passaggi superflui.;;test/correzioni/07_nicola_mario_de_marchi_A/E2_CORREZIONE.cs
+7;DE MARCHI NICOLA MARIO;A;3;Test eseguiti;2;0;2;23,00;4;4;4;12;0;0;Conteggio lineare, nomi chiari e rami ben organizzati.;;test/correzioni/07_nicola_mario_de_marchi_A/E3_CORREZIONE.cs
+8;EPIE DIMITRI EWANG;B;1;Test eseguiti;2;3;5;7,20;2;2;2;6;0;0;"Blocchi e rientri irregolari; cicli di somma evitabili per il calcolo delle fasce.";;test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs
+8;EPIE DIMITRI EWANG;B;2;Test eseguiti;3;1;4;17,25;2;2;1;5;-2;0;"Flag ridondante e guardia sempre vera; accesso al successivo senza limite coerente.";Corretta solo la stampa di due interi usando interpolazione. Algoritmo invariato.;test/correzioni/08_dimitri_ewang_epie_B/E2_corretto.cs
+8;EPIE DIMITRI EWANG;B;3;Non compila;;;2;0,00;2;1;0;3;0;0;"Confusione fra lista, tupla e dizionario; risultato non costruito in modo coerente.";;test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs
+9;FRANZONI GABRIELE;C;1;Test eseguiti;5;0;5;18,00;3;4;4;11;0;0;"Ritorni anticipati chiari; rientri dei return poco curati.";;test/correzioni/09_gabriele_franzoni_C/E1_CORREZIONE.cs
+9;FRANZONI GABRIELE;C;2;Non compila;;;3;0,00;3;2;1;6;0;0;Ciclo leggibile, ma tratta il risultato come singolo valore anziché lista da costruire.;;test/correzioni/09_gabriele_franzoni_C/E2_CORREZIONE.cs
+9;FRANZONI GABRIELE;C;3;Non compila;;;2;0,00;2;1;1;4;0;0;"Idea di mappa riconoscibile; uso incoerente di ContainsKey, Add e valori interi.";;test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs
+10;GRATTONI GABRIELE;D;1;Test eseguiti;5;0;5;18,00;3;3;4;10;0;0;"Rami comprensibili; else, parentesi e spazi vuoti superflui.";;test/correzioni/10_gabriele_grattoni_D/E1_CORREZIONE.cs
+10;GRATTONI GABRIELE;D;2;Test eseguiti;3;0;3;23,00;3;4;4;11;0;0;"Accumulo lineare; negazione del confronto meno immediata di i % 2 != 0.";;test/correzioni/10_gabriele_grattoni_D/E2_CORREZIONE.cs
+10;GRATTONI GABRIELE;D;3;Test eseguiti;3;0;3;23,00;3;3;4;10;0;0;"Controllo della mappa diretto; if annidati senza blocchi e molti vuoti.";;test/correzioni/10_gabriele_grattoni_D/E3_CORREZIONE.cs
+11;GRIZZO ROSSANA;E;1;Test eseguiti;5;0;5;18,00;3;4;4;11;0;0;"Classificazione lineare; indentazione e spaziatura non uniformi.";;test/correzioni/11_rossana_grizzo_E/E1_CORREZIONE.cs
+11;GRIZZO ROSSANA;E;2;Test eseguiti;2;0;2;23,00;4;4;4;12;0;0;Inversione lineare, indici chiari e nessuna struttura superflua.;;test/correzioni/11_rossana_grizzo_E/E2_CORREZIONE.cs
+11;GRIZZO ROSSANA;E;3;Test eseguiti;2;0;2;23,00;4;4;4;12;0;0;Nomi descrittivi e raggruppamento ordinato, con rami coerenti.;;test/correzioni/11_rossana_grizzo_E/E3_CORREZIONE.cs
+12;LACCHIN FILIPPO;F;1;Test eseguiti;1;3;4;4,50;2;1;1;4;-2;0;Variabili inutilizzate, blocchi gratuiti e prezzo non costruito come risultato cumulativo.;Aggiunto = a result / 2 per rendere valida l’istruzione. result è una variabile locale mai restituita: calcolo dei prezzi e condizioni invariati.;test/correzioni/12_filippo_lacchin_F/E1_corretto.cs
+12;LACCHIN FILIPPO;F;2;Non compila;;;3;0,00;2;1;0;3;0;0;"Confusione fra valori e indici; variabile inutilizzata e ritorni nel primo giro.";;test/correzioni/12_filippo_lacchin_F/E2_CORREZIONE.cs
+12;LACCHIN FILIPPO;F;3;Non compila;;;1;0,00;1;0;0;1;0;0;Dichiarazione incompleta e ciclo vuoto: nessuna struttura di conteggio.;;test/correzioni/12_filippo_lacchin_F/E3_CORREZIONE.cs
+13;MANIAS LUCA;A;1;Test eseguiti;8;0;8;18,00;3;4;4;11;0;0;"Ritorni semplici e flusso chiaro; spazi vuoti e rientri migliorabili.";;test/correzioni/13_luca_manias_A/E1_CORREZIONE.cs
+13;MANIAS LUCA;A;2;Test eseguiti;3;1;4;17,25;3;3;3;9;-2;0;"Ricerca breve e riconoscibile; ritorno nel ciclo poco coerente con la ricerca dell’ultimo indice.";"for: aggiunti int e separatori ; al posto di ,; LongCount sostituito con Count. Conservato il ritorno sul primo errore.";test/correzioni/13_luca_manias_A/E2_corretto.cs
+13;MANIAS LUCA;A;3;Non compila;;;2;0,00;0;0;0;0;0;0;Sola firma, senza corpo: nessuna implementazione valutabile.;;test/correzioni/13_luca_manias_A/E3_CORREZIONE.cs
+14;MASTRO CLAUDIO;B;1;Test eseguiti;5;0;5;18,00;2;2;3;7;0;0;"Fasce riconoscibili; indentazione a cascata fuorviante e assegnazione iniziale evitabile.";;test/correzioni/14_claudio_mastro_B/E1_CORREZIONE.cs
+14;MASTRO CLAUDIO;B;2;Test eseguiti;3;1;4;17,25;3;3;2;8;0;0;"Scansione leggibile; confronto annidato ridondante e limite del ciclo poco coerente.";;test/correzioni/14_claudio_mastro_B/E2_CORREZIONE.cs
+14;MASTRO CLAUDIO;B;3;Test eseguiti;2;0;2;23,00;4;4;4;12;0;0;Raggruppamento essenziale, nomi chiari e accesso alla mappa ordinato.;;test/correzioni/14_claudio_mastro_B/E3_CORREZIONE.cs
+15;MEHNI NOUFAL;C;1;Non compila;;;5;0,00;1;0;0;1;0;0;Solo inizializzazione e intestazione di ciclo incompleta.;;test/correzioni/15_noufal_mehni_C/E1_CORREZIONE.cs
+15;MEHNI NOUFAL;C;2;Non compila;;;3;0,00;2;1;1;4;0;0;Intento riconoscibile, ma confonde lista, dimensione, elemento e valore restituito.;;test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs
+15;MEHNI NOUFAL;C;3;Non compila;;;2;0,00;1;1;0;2;0;0;"Tuple e identificatori scollegati dal tipo in ingresso; aggiornamento non definito.";;test/correzioni/15_noufal_mehni_C/E3_CORREZIONE.cs
+16;NARDER ALBERTO;D;1;Non compila;;;5;0,00;2;2;1;5;0;0;"Condizioni leggibili; frammento su lista vuota senza funzione né risultato coerente col parametro.";;test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs
+16;NARDER ALBERTO;D;2;Non compila;;;3;0,00;1;1;0;2;0;0;Ciclo abbozzato con indici e accumulatore non definiti.;;test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs
+16;NARDER ALBERTO;D;3;Non compila;;;3;0,00;0;0;0;0;0;0;Sola dichiarazione di mappa malformata, senza funzione né verifica.;;test/correzioni/16_alberto_narder_D/E3_CORREZIONE.cs
+17;NERI LEONARDO;E;1;Test eseguiti;5;0;5;18,00;3;4;4;11;0;0;"Rami lineari e comprensibili; stile compatto con spaziatura non uniforme.";;test/correzioni/17_leonardo_neri_E/E1_CORREZIONE.cs
+17;NERI LEONARDO;E;2;Test eseguiti;2;0;2;23,00;4;4;4;12;0;0;Scansione inversa semplice e costruzione esplicita della lista.;;test/correzioni/17_leonardo_neri_E/E2_CORREZIONE.cs
+17;NERI LEONARDO;E;3;Test eseguiti;1;1;2;11,50;4;4;3;11;0;0;"Raggruppamento lineare; nome countriesIp poco coerente con la chiave record.Ip.";;test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs
+18;NOGARÈ LEONARDO;F;1;Test eseguiti;4;0;4;18,00;4;4;4;12;0;0;Nomi chiari, fasce ben separate e commenti esplicativi.;;test/correzioni/18_leonardo_nogare_F/E1_CORREZIONE.cs
+18;NOGARÈ LEONARDO;F;2;Test eseguiti;3;0;3;23,00;4;4;4;12;0;0;"Guardia iniziale e scansione ordinate; confronto spiegato nei commenti.";;test/correzioni/18_leonardo_nogare_F/E2_CORREZIONE.cs
+18;NOGARÈ LEONARDO;F;3;Test eseguiti;1;0;1;23,00;4;3;4;11;0;0;"Conteggio chiaro; stampa nella funzione e guardia iniziale superflua aggiungono rumore.";;test/correzioni/18_leonardo_nogare_F/E3_CORREZIONE.cs
+19;PARO GIOVANNI;A;1;Test eseguiti;5;3;8;11,25;4;4;4;12;0;0;Rami ordinati, nomi chiari e priorità esplicite.;;test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs
+19;PARO GIOVANNI;A;2;Test eseguiti;3;1;4;17,25;3;2;1;6;0;0;Controllo Count < 0 impossibile e incremento fisso poco collegato alla posizione cercata.;;test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs
+19;PARO GIOVANNI;A;3;Non compila;;;2;0,00;3;2;1;6;0;0;Rami e nomi leggibili, ma confusione fra aggiunta, indicizzazione e aggiornamento del conteggio.;;test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs
+20;PINATO EDDY;B;1;Non compila;;;5;0,00;2;2;1;5;0;0;Fasce riconoscibili, ma mescola stampa e calcolo senza costruire il valore restituito.;;test/correzioni/20_eddy_pinato_B/E1_CORREZIONE.cs
+20;PINATO EDDY;B;2;Non compila;;;4;0,00;2;2;1;5;0;0;"Confronto leggibile; limite fisso, accesso i+1 e stampa invece del risultato.";;test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs
+20;PINATO EDDY;B;3;Non compila;;;2;0,00;0;0;0;0;0;0;Sola firma, senza corpo: nessuna implementazione valutabile.;;test/correzioni/20_eddy_pinato_B/E3_CORREZIONE.cs
+21;SANTONI CHIARA;C;1;Test eseguiti;4;1;5;14,40;3;3;4;10;-2;0;"Regole ben separate e ritorni diretti; stampe vuote e spaziatura aggiungono rumore.";"Sostituito ; dopo la firma con {, aggiunta } finale, uniformato inInternal/isInternal. REDIRECT_HHTPS conservato.";test/correzioni/21_chiara_santoni_C/E1_corretto.cs
+21;SANTONI CHIARA;C;2;Non compila;;;3;0,00;2;1;1;4;0;0;Intento riconoscibile, ma tipi e ritorni non costruiscono una lista di risultati.;;test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs
+21;SANTONI CHIARA;C;3;Non compila;;;2;0,00;1;0;0;1;0;0;"Firma incoerente e ciclo vuoto; nessuna struttura di conteggio.";;test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs
+22;SOLONYSHYN MAKSYM;D;1;Test eseguiti;5;0;5;18,00;4;4;4;12;0;0;Rami compatti, nomi chiari e priorità leggibili.;;test/correzioni/22_maksym_solonyshyn_D/E1_CORREZIONE.cs
+22;SOLONYSHYN MAKSYM;D;2;Test eseguiti;3;0;3;23,00;4;4;4;12;0;0;Scansione diretta dei soli indici dispari e accumulo essenziale.;;test/correzioni/22_maksym_solonyshyn_D/E2_CORREZIONE.cs
+22;SOLONYSHYN MAKSYM;D;3;Test eseguiti;3;0;3;23,00;4;4;4;12;0;0;Espressione breve e chiara con controllo della chiave prima dell’accesso.;;test/correzioni/22_maksym_solonyshyn_D/E3_CORREZIONE.cs
+23;SPINA MATTEO;E;1;Test eseguiti;5;0;5;18,00;4;4;4;12;0;0;Switch leggibile, casi ordinati e commenti pertinenti.;;test/correzioni/23_matteo_spina_E/E1_CORREZIONE.cs
+23;SPINA MATTEO;E;2;Test eseguiti;2;0;2;23,00;4;4;4;12;0;0;Scansione inversa essenziale, nomi chiari e lista costruita ordinatamente.;;test/correzioni/23_matteo_spina_E/E2_CORREZIONE.cs
+23;SPINA MATTEO;E;3;Test eseguiti;2;0;2;23,00;4;3;4;11;0;0;"Raggruppamento chiaro; normalizzazione ripetuta tre volte anziché salvata in una variabile.";;test/correzioni/23_matteo_spina_E/E3_CORREZIONE.cs
+24;TEGON MOIRA;F;1;Test eseguiti;4;0;4;18,00;4;2;3;9;0;0;"Codice leggibile; sconto duplicato in tre rami e cicli evitabili per calcolare le fasce.";;test/correzioni/24_moira_tegon_F/E1_CORREZIONE.cs
+24;TEGON MOIRA;F;2;Test eseguiti;2;1;3;15,33;4;4;3;11;0;0;"Guardia e ciclo chiari; limite e confronto poco coerenti con la sequenza strettamente crescente.";;test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs
+24;TEGON MOIRA;F;3;Test eseguiti;1;0;1;23,00;4;4;4;12;0;0;"Conteggio ordinato e nomi chiari; filtro delle parole vuote esplicito.";;test/correzioni/24_moira_tegon_F/E3_CORREZIONE.cs

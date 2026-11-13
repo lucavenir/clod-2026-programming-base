@@ -1,0 +1,2022 @@
+
+===== 00 Riferimento A — A E1 — 19/19 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/A_E1-a3f9393e6aaaf9010fe705851193a66f1ec2ae1b9f43b4b69d16a19109893394/bin/debug/A_E1.dll
+  total: 19
+  failed: 0
+  succeeded: 19
+  skipped: 0
+  duration: 88ms
+
+===== 00 Riferimento A — A E2 — 10/10 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/A_E2-69f3e041711d2c1dcd3d4c411d76b16d233c66bf281515497e0d2a6636d088a2/bin/debug/A_E2.dll
+  total: 10
+  failed: 0
+  succeeded: 10
+  skipped: 0
+  duration: 94ms
+
+===== 00 Riferimento A — A E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/A_E3-7e79e1492286afcff950fecf242f5f6d472ef32337034ca8b073b99e8e4b6e52/bin/debug/A_E3.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 90ms
+
+===== 00 Riferimento B — B E1 — 12/12 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/B_E1-378fd1477bafacb19e2ade02f338a5fcfa14ad7e0a99ea845b095e11dad912c5/bin/debug/B_E1.dll
+  total: 12
+  failed: 0
+  succeeded: 12
+  skipped: 0
+  duration: 76ms
+
+===== 00 Riferimento B — B E2 — 11/11 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/B_E2-79d45ba0cf113eb74b4b20a422d54a86ba9b6aac202565cf796ebb8a65297a74/bin/debug/B_E2.dll
+  total: 11
+  failed: 0
+  succeeded: 11
+  skipped: 0
+  duration: 74ms
+
+===== 00 Riferimento B — B E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/B_E3-6cb8d4c4eaa6d5062d1d75f4916e0e53583c1f613c46d0a9566a1c39363f9dde/bin/debug/B_E3.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 78ms
+
+===== 00 Riferimento C — C E1 — 11/11 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/C_E1-22c3a96b658ed2bd14bf04d525ca4cad41b9830535db45b242e5f8e00e3e68f4/bin/debug/C_E1.dll
+  total: 11
+  failed: 0
+  succeeded: 11
+  skipped: 0
+  duration: 72ms
+
+===== 00 Riferimento C — C E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/C_E2-e7f70e8153e73a107b3706c2c74c3564b41230cdd47f25349ff08ca277bf0988/bin/debug/C_E2.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 82ms
+
+===== 00 Riferimento C — C E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/C_E3-8707c40707f09071302f10669fa9044c04999195ff42dae8a515dc451f28fd21/bin/debug/C_E3.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 77ms
+
+===== 00 Riferimento D — D E1 — 9/9 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/D_E1-56beef9bbe11e2c9cbee4241ab933347647f45d641f580581fa6ff1506ac9b35/bin/debug/D_E1.dll
+  total: 9
+  failed: 0
+  succeeded: 9
+  skipped: 0
+  duration: 76ms
+
+===== 00 Riferimento D — D E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/D_E2-fe9d5db3d2c977a410f5d5b323f178d1f266cbb0a760d7a2e4a1d8123fbed276/bin/debug/D_E2.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 73ms
+
+===== 00 Riferimento D — D E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/D_E3-a31eb761207d189d542f3122f5bf260973b8d2e1ee1c3d1b6f174c6ebe799faf/bin/debug/D_E3.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 70ms
+
+===== 00 Riferimento E — E E1 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E_E1-d85566af701ed3bd2d039fb964e5d7977f43628f2c45b98d30efb04627a33782/bin/debug/E_E1.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 77ms
+
+===== 00 Riferimento E — E E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E_E2-c1e03eb1b02b84687eea99f13981c03eabc511d453331f3f2747824c869a2cec/bin/debug/E_E2.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 78ms
+
+===== 00 Riferimento E — E E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E_E3-bb6d1ff63348a26d1a06ca65deaf5df1086ae30382dfb9c06e92245b74ef7786/bin/debug/E_E3.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 76ms
+
+===== 00 Riferimento F — F E1 — 14/14 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/F_E1-ac11a7de31c71b76204095814fa213cd1beea69648f8cfc12fe197a5fd79c640/bin/debug/F_E1.dll
+  total: 14
+  failed: 0
+  succeeded: 14
+  skipped: 0
+  duration: 77ms
+
+===== 00 Riferimento F — F E2 — 11/11 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/F_E2-fa3a1094e54a1f55b5963323cf16627205da8ad45d0e547dc9ec43b3f8423462/bin/debug/F_E2.dll
+  total: 11
+  failed: 0
+  succeeded: 11
+  skipped: 0
+  duration: 82ms
+
+===== 00 Riferimento F — F E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/F_E3-f9e2583189f5e330e82fc44989ebaef896f3a1618051fc38ed5cb8baad1e57fc/bin/debug/F_E3.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 85ms
+
+===== 01 AKI KOMI SYLVAIN — A E1 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(17,21): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(17,21): error CS1525: Invalid expression term '<='
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(17,27): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(19,19): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(19,27): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(19,27): error CS1525: Invalid expression term '>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(19,33): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(19,33): error CS1513: } expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(23,8): error CS8641: 'else' cannot start a statement.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(23,8): error CS1003: Syntax error, '(' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(23,8): error CS1525: Invalid expression term 'else'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(23,8): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(23,8): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,32): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,40): error CS1001: Identifier expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,40): error CS1003: Syntax error, '>' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,40): error CS1003: Syntax error, '(' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,40): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,40): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,43): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,51): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,51): error CS1525: Invalid expression term '>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,55): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(26,55): error CS1513: } expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(28,26): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(29,7): error CS8641: 'else' cannot start a statement.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(29,7): error CS1003: Syntax error, '(' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(29,7): error CS1525: Invalid expression term 'else'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(29,7): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(29,7): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(31,24): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(31,32): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(31,32): error CS1525: Invalid expression term '>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(31,37): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(31,37): error CS1513: } expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(35,8): error CS8641: 'else' cannot start a statement.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(35,8): error CS1003: Syntax error, '(' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(35,8): error CS1525: Invalid expression term 'else'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(35,8): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(35,8): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(40,18): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E1_CORREZIONE.cs(44,4): error CS1519: Invalid token ']' in a member declaration
+
+The build failed. Fix the build errors and run again.
+
+===== 01 AKI KOMI SYLVAIN — A E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(27,1): error CS1585: Member modifier 'public' must precede the member type and name
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(29,1): error CS1519: Invalid token '{' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(30,10): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(30,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(30,10): error CS1519: Invalid token '=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(30,28): error CS1519: Invalid token '>=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(30,37): error CS1519: Invalid token '--' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E2_CORREZIONE.cs(36,1): error CS1022: Type or namespace definition, or end-of-file expected
+
+The build failed. Fix the build errors and run again.
+
+===== 01 AKI KOMI SYLVAIN — A E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(16,13): error CS1519: Invalid token '3' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(17,13): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(17,21): error CS1519: Invalid token ':' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(25,66): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(27,79): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(27,79): error CS1519: Invalid token ')' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(30,1): error CS1519: Invalid token 'foreach' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(30,14): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(30,14): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(30,31): error CS1519: Invalid token 'in' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(30,42): error CS1519: Invalid token ')' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/01_sylvain_aki_komi_A/E3_CORREZIONE.cs(115,2): error CS1513: } expected
+
+The build failed. Fix the build errors and run again.
+
+===== 02 BON DANIEL — B E1 — 7/12 =====
+failed Should_ChargeCorrectly_When_GbExceeds50 (5ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 51 GB = 60€ (fascia 11-50) + 1.00€ (1 GB oltre 50).
+  
+  expected: 61
+  actual:   101
+  delta:    0.001
+  
+  Assert.AreEqual(61.0, CalculateStorageCost(51, false), <delta>)
+  Expected
+    61
+  Actual
+    101
+    at Esercizio1Tests.Should_ChargeCorrectly_When_GbExceeds50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs:68
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-b0f513d677c5a9dba63cec3804fab6dcf650b917c53c7c393aed489cc83d8fc2/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_Apply20PercentDiscount_When_PromotionIsTrue (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 60€ con promozione -20% diventa 48€.
+  
+  expected: 48
+  actual:   12
+  delta:    0.001
+  
+  Assert.AreEqual(48.0, CalculateStorageCost(50, true), <delta>)
+  Expected
+    48
+  Actual
+    12
+    at Esercizio1Tests.Should_Apply20PercentDiscount_When_PromotionIsTrue() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs:75
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_5(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-b0f513d677c5a9dba63cec3804fab6dcf650b917c53c7c393aed489cc83d8fc2/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:175
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_FarAbove50 (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 90
+  actual:   130
+  delta:    0.001
+  
+  Assert.AreEqual(90.0, CalculateStorageCost(80, false), <delta>)
+  Expected
+    90
+  Actual
+    130
+    at Esercizio1Tests.Should_CalculateStorage_When_FarAbove50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs:106
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-b0f513d677c5a9dba63cec3804fab6dcf650b917c53c7c393aed489cc83d8fc2/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_PromotionInMiddleRange (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 1.2
+  actual:   0.30000000000000004
+  delta:    0.001
+  
+  Assert.AreEqual(1.2, CalculateStorageCost(11, true), <delta>)
+  Expected
+    1.2
+  Actual
+    0.30000000000000004
+    at Esercizio1Tests.Should_CalculateStorage_When_PromotionInMiddleRange() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs:112
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_11(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-b0f513d677c5a9dba63cec3804fab6dcf650b917c53c7c393aed489cc83d8fc2/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:319
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_PromotionAbove50 (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 48.8
+  actual:   20.200000000000003
+  delta:    0.001
+  
+  Assert.AreEqual(48.8, CalculateStorageCost(51, true), <delta>)
+  Expected
+    48.8
+  Actual
+    20.200000000000003
+    at Esercizio1Tests.Should_CalculateStorage_When_PromotionAbove50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/02_daniel_bon_B/E1_CORREZIONE.cs:118
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_12(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-b0f513d677c5a9dba63cec3804fab6dcf650b917c53c7c393aed489cc83d8fc2/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:343
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-b0f513d677c5a9dba63cec3804fab6dcf650b917c53c7c393aed489cc83d8fc2/bin/debug/E1_CORREZIONE.dll
+  total: 12
+  failed: 5
+  succeeded: 7
+  skipped: 0
+  duration: 86ms
+
+===== 02 BON DANIEL — B E2 — 10/11 =====
+failed Should_DetectLatencySpike_When_PeakEqualsFirstMeasurement (5ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: true
+  actual:   false
+  
+  Assert.AreEqual(true, HasLatencySpike([100, 10, 100]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_DetectLatencySpike_When_PeakEqualsFirstMeasurement() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/02_daniel_bon_B/E2_CORREZIONE.cs:97
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-3b1dffa75b18654db573f540522be7a9142504961bb5bad8f001ab91d37c164b/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-3b1dffa75b18654db573f540522be7a9142504961bb5bad8f001ab91d37c164b/bin/debug/E2_CORREZIONE.dll
+  total: 11
+  failed: 1
+  succeeded: 10
+  skipped: 0
+  duration: 85ms
+
+===== 02 BON DANIEL — B E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-7422caeb52d919c41c0432762db334e166d374d02f868ea460af318c10592dde/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 80ms
+
+===== 03 CALÒ CAMILLA — C E1 — 7/11 =====
+failed Should_RedirectHttps_When_ProtocolIsHttp (8ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have different lengths (expected: 14, actual: 5) and differ at 1 location(s). First difference at index 0.
+  Regola: il protocollo HTTP ha precedenza su rete interna e richiede reindirizzamento HTTPS.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "ALLOW"
+  difference: -^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(80, true, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "ALLOW"
+    at Esercizio1Tests.Should_RedirectHttps_When_ProtocolIsHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E1_CORREZIONE.cs:54
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-31827ffa3b7022ad9c9b9edcaec7a32ad2291fd8ce9c2c826bd7285703638bec/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectFirewallPriority_When_ExternalSshUsesHttp (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (14) and differ at 1 location(s). First difference at index 0.
+  
+  expected:   "BLOCK_SSH_RISK"
+  actual:     "REDIRECT_HTTPS"
+  difference: -^
+  
+  Assert.AreEqual("BLOCK_SSH_RISK", EvaluateFirewallRule(22, false, "HTTP"))
+  Expected
+    "BLOCK_SSH_RISK"
+  Actual
+    "REDIRECT_HTTPS"
+    at Esercizio1Tests.Should_RespectFirewallPriority_When_ExternalSshUsesHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E1_CORREZIONE.cs:75
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-31827ffa3b7022ad9c9b9edcaec7a32ad2291fd8ce9c2c826bd7285703638bec/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectFirewallPriority_When_HttpsPortUsesHttp (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have different lengths (expected: 14, actual: 5) and differ at 1 location(s). First difference at index 0.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "ALLOW"
+  difference: -^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(443, false, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "ALLOW"
+    at Esercizio1Tests.Should_RespectFirewallPriority_When_HttpsPortUsesHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E1_CORREZIONE.cs:81
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-31827ffa3b7022ad9c9b9edcaec7a32ad2291fd8ce9c2c826bd7285703638bec/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectFirewallPriority_When_InternalSshUsesHttp (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have different lengths (expected: 14, actual: 5) and differ at 1 location(s). First difference at index 0.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "ALLOW"
+  difference: -^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(22, true, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "ALLOW"
+    at Esercizio1Tests.Should_RespectFirewallPriority_When_InternalSshUsesHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E1_CORREZIONE.cs:87
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_8(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-31827ffa3b7022ad9c9b9edcaec7a32ad2291fd8ce9c2c826bd7285703638bec/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:247
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-31827ffa3b7022ad9c9b9edcaec7a32ad2291fd8ce9c2c826bd7285703638bec/bin/debug/E1_CORREZIONE.dll
+  total: 11
+  failed: 4
+  succeeded: 7
+  skipped: 0
+  duration: 88ms
+
+===== 03 CALÒ CAMILLA — C E2 — 4/8 =====
+failed Should_PreserveIdsAndOrder_When_TwoVisibleIds (5ms)
+  CollectionAssert.AreEqual failed. Different number of elements.
+    at Esercizio2Tests.Should_PreserveIdsAndOrder_When_TwoVisibleIds() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E2_CORREZIONE.cs:66
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-0f8433cb85ab743c6bf889ce29b031377ce4fda1c088ecce0de5ea01cb26bb68/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_PreserveIdsAndOrder_When_MixedBoundaryIds (0ms)
+  CollectionAssert.AreEqual failed. Different number of elements.
+    at Esercizio2Tests.Should_PreserveIdsAndOrder_When_MixedBoundaryIds() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E2_CORREZIONE.cs:73
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_5(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-0f8433cb85ab743c6bf889ce29b031377ce4fda1c088ecce0de5ea01cb26bb68/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:175
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_PreserveIdsAndOrder_When_HiddenThenVisible (0ms)
+  CollectionAssert.AreEqual failed. Different number of elements.
+    at Esercizio2Tests.Should_PreserveIdsAndOrder_When_HiddenThenVisible() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E2_CORREZIONE.cs:80
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-0f8433cb85ab743c6bf889ce29b031377ce4fda1c088ecce0de5ea01cb26bb68/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_PreserveIdsAndOrder_When_RepeatedIds (0ms)
+  CollectionAssert.AreEqual failed. Different number of elements.
+    at Esercizio2Tests.Should_PreserveIdsAndOrder_When_RepeatedIds() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E2_CORREZIONE.cs:87
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-0f8433cb85ab743c6bf889ce29b031377ce4fda1c088ecce0de5ea01cb26bb68/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-0f8433cb85ab743c6bf889ce29b031377ce4fda1c088ecce0de5ea01cb26bb68/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 4
+  succeeded: 4
+  skipped: 0
+  duration: 87ms
+
+===== 03 CALÒ CAMILLA — C E3 — 3/8 =====
+failed Should_CountHttpFrequenciesCorrectly (6ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, result[200])
+  Expected
+    2
+  Actual
+    1
+    at Esercizio3Tests.Should_CountHttpFrequenciesCorrectly() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E3_corretto.cs:52
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_2(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_corretto-b11341419ce19b98b7a549c9b985aef2c4872dba0bf895b0fb703ee419e85278/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:103
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CountAllHttpCodes_When_RepeatedCode (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 3
+  actual:   1
+  
+  Assert.AreEqual(3, result[503])
+  Expected
+    3
+  Actual
+    1
+    at Esercizio3Tests.Should_CountAllHttpCodes_When_RepeatedCode() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E3_corretto.cs:69
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_corretto-b11341419ce19b98b7a549c9b985aef2c4872dba0bf895b0fb703ee419e85278/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CountAllHttpCodes_When_DifferentFrequencies (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, result[404])
+  Expected
+    2
+  Actual
+    1
+    at Esercizio3Tests.Should_CountAllHttpCodes_When_DifferentFrequencies() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E3_corretto.cs:87
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_corretto-b11341419ce19b98b7a549c9b985aef2c4872dba0bf895b0fb703ee419e85278/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CountAllHttpCodes_When_ClientAndServerCodes (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, result[200])
+  Expected
+    2
+  Actual
+    1
+    at Esercizio3Tests.Should_CountAllHttpCodes_When_ClientAndServerCodes() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E3_corretto.cs:97
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_corretto-b11341419ce19b98b7a549c9b985aef2c4872dba0bf895b0fb703ee419e85278/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CountAllHttpCodes_When_SameCodeAtBothEnds (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, result[200])
+  Expected
+    2
+  Actual
+    1
+    at Esercizio3Tests.Should_CountAllHttpCodes_When_SameCodeAtBothEnds() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/03_camilla_calo_C/E3_corretto.cs:107
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_8(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_corretto-b11341419ce19b98b7a549c9b985aef2c4872dba0bf895b0fb703ee419e85278/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:247
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_corretto-b11341419ce19b98b7a549c9b985aef2c4872dba0bf895b0fb703ee419e85278/bin/debug/E3_corretto.dll
+  total: 8
+  failed: 5
+  succeeded: 3
+  skipped: 0
+  duration: 82ms
+
+===== 04 CECHET DEVIS — D E1 — 9/9 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-7d04e77266dd84207c1d357394b36280146650aad9d43485e6222745d4ec1a19/bin/debug/E1_CORREZIONE.dll
+  total: 9
+  failed: 0
+  succeeded: 9
+  skipped: 0
+  duration: 76ms
+
+===== 04 CECHET DEVIS — D E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-8af04cc5bb184fe21d7f6d567d03645b24db42f06eadc719c1b88f820c0c9a10/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 84ms
+
+===== 04 CECHET DEVIS — D E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-835885e8ffa113cdb9c35a7cdb0204b0ed6fb69baae5d021a1a0faf242f06c8e/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 77ms
+
+===== 05 CHAKICH MOHAMAD — E E1 — 8/8 =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E1_corretto.cs(31,13): warning CS0642: Possible mistaken empty statement
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2579bd6882e56893833f5264973dc7fcb24ce8790803d5d4853cce14f06226d0/bin/debug/E1_corretto.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 75ms
+
+===== 05 CHAKICH MOHAMAD — E E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(23,1): error CS1519: Invalid token '{' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(25,12): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(25,12): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(25,12): error CS1519: Invalid token '=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(25,21): error CS1519: Invalid token '-' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(25,28): error CS1519: Invalid token '>=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(25,36): error CS1519: Invalid token '--' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/05_mohamad_chakich_E/E2_CORREZIONE.cs(44,1): error CS1022: Type or namespace definition, or end-of-file expected
+
+The build failed. Fix the build errors and run again.
+
+===== 05 CHAKICH MOHAMAD — E E3 — Mancante =====
+Nessuna esecuzione: esercizio non consegnato.
+
+===== 06 CILUFFO ALEX — F E1 — Mancante =====
+Nessuna esecuzione: esercizio non consegnato.
+
+===== 06 CILUFFO ALEX — F E2 — Mancante =====
+Nessuna esecuzione: esercizio non consegnato.
+
+===== 06 CILUFFO ALEX — F E3 — Mancante =====
+Nessuna esecuzione: esercizio non consegnato.
+
+===== 07 DE MARCHI NICOLA MARIO — A E1 — 19/19 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-0fbdf7fd231b6bea159d94973c690904ac840743539422819c7ec8e4f8000847/bin/debug/E1_CORREZIONE.dll
+  total: 19
+  failed: 0
+  succeeded: 19
+  skipped: 0
+  duration: 79ms
+
+===== 07 DE MARCHI NICOLA MARIO — A E2 — 10/10 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-f0ecb5bc9d92fed8c8b7331477b2895659d53aebfc2c6e8384bde9e16659cfe9/bin/debug/E2_CORREZIONE.dll
+  total: 10
+  failed: 0
+  succeeded: 10
+  skipped: 0
+  duration: 83ms
+
+===== 07 DE MARCHI NICOLA MARIO — A E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-2b27dc9c245ea7486ca8117469332174f76db656f638d0cfa6337f289aca6671/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 79ms
+
+===== 08 EPIE DIMITRI EWANG — B E1 — 4/12 =====
+failed Should_Charge150PerGb_When_GbBetween11And50 (6ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 11 GB = 1 GB eccedente a 1.50€.
+  
+  expected: 1.5
+  actual:   3
+  delta:    0.001
+  
+  Assert.AreEqual(1.50, CalculateStorageCost(11, false), <delta>)
+  Expected
+    1.5
+  Actual
+    3
+    at Esercizio1Tests.Should_Charge150PerGb_When_GbBetween11And50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:65
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_ChargeCorrectly_When_GbExceeds50 (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 51 GB = 60€ (fascia 11-50) + 1.00€ (1 GB oltre 50).
+  
+  expected: 61
+  actual:   102
+  delta:    0.001
+  
+  Assert.AreEqual(61.0, CalculateStorageCost(51, false), <delta>)
+  Expected
+    61
+  Actual
+    102
+    at Esercizio1Tests.Should_ChargeCorrectly_When_GbExceeds50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:72
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_Apply20PercentDiscount_When_PromotionIsTrue (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 60€ con promozione -20% diventa 48€.
+  
+  expected: 48
+  actual:   12.3
+  delta:    0.001
+  
+  Assert.AreEqual(48.0, CalculateStorageCost(50, true), <delta>)
+  Expected
+    48
+  Actual
+    12.3
+    at Esercizio1Tests.Should_Apply20PercentDiscount_When_PromotionIsTrue() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:79
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_5(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:175
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_NegativeWithPromotion (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: -1
+  actual:   -0.2
+  delta:    0.001
+  
+  Assert.AreEqual(-1.0, CalculateStorageCost(-1, true), <delta>)
+  Expected
+    -1
+  Actual
+    -0.2
+    at Esercizio1Tests.Should_CalculateStorage_When_NegativeWithPromotion() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:86
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_Exactly50 (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 60
+  actual:   61.5
+  delta:    0.001
+  
+  Assert.AreEqual(60.0, CalculateStorageCost(50, false), <delta>)
+  Expected
+    60
+  Actual
+    61.5
+    at Esercizio1Tests.Should_CalculateStorage_When_Exactly50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:104
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_FarAbove50 (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 90
+  actual:   131
+  delta:    0.001
+  
+  Assert.AreEqual(90.0, CalculateStorageCost(80, false), <delta>)
+  Expected
+    90
+  Actual
+    131
+    at Esercizio1Tests.Should_CalculateStorage_When_FarAbove50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:110
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_PromotionInMiddleRange (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 1.2
+  actual:   0.6
+  delta:    0.001
+  
+  Assert.AreEqual(1.2, CalculateStorageCost(11, true), <delta>)
+  Expected
+    1.2
+  Actual
+    0.6
+    at Esercizio1Tests.Should_CalculateStorage_When_PromotionInMiddleRange() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:116
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_11(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:319
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateStorage_When_PromotionAbove50 (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 48.8
+  actual:   20.4
+  delta:    0.001
+  
+  Assert.AreEqual(48.8, CalculateStorageCost(51, true), <delta>)
+  Expected
+    48.8
+  Actual
+    20.4
+    at Esercizio1Tests.Should_CalculateStorage_When_PromotionAbove50() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E1_CORREZIONE.cs:122
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_12(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:343
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-4e9e64f19ba48b7bca5db49133ae16e27e9933b8d867ed79c2e5089d8b7f9660/bin/debug/E1_CORREZIONE.dll
+  total: 12
+  failed: 8
+  succeeded: 4
+  skipped: 0
+  duration: 83ms
+
+===== 08 EPIE DIMITRI EWANG — B E2 — 7/11 =====
+failed Should_ReturnTrue_When_JumpExceeds50Ms (6ms)
+  Assertion failed. Expected condition to be true.
+  Regola: incremento di 51 ms deve far scattare lo spike.
+  
+  actual: false
+  
+  Assert.IsTrue(HasLatencySpike([10, 61]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_ReturnTrue_When_JumpExceeds50Ms() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E2_corretto.cs:55
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-cb1425a6568a2f87775da08321833f9cc628da95e0f745c409c07c1cbd27f51a/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_DetectLatencySpike_When_JumpAtLastPair (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: true
+  actual:   false
+  
+  Assert.AreEqual(true, HasLatencySpike([10, 20, 80]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_DetectLatencySpike_When_JumpAtLastPair() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E2_corretto.cs:75
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-cb1425a6568a2f87775da08321833f9cc628da95e0f745c409c07c1cbd27f51a/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_DetectLatencySpike_When_JumpAtFirstPair (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: true
+  actual:   false
+  
+  Assert.AreEqual(true, HasLatencySpike([10, 80, 85]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_DetectLatencySpike_When_JumpAtFirstPair() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E2_corretto.cs:81
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-cb1425a6568a2f87775da08321833f9cc628da95e0f745c409c07c1cbd27f51a/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_DetectLatencySpike_When_PeakEqualsFirstMeasurement (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: true
+  actual:   false
+  
+  Assert.AreEqual(true, HasLatencySpike([100, 10, 100]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_DetectLatencySpike_When_PeakEqualsFirstMeasurement() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E2_corretto.cs:99
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-cb1425a6568a2f87775da08321833f9cc628da95e0f745c409c07c1cbd27f51a/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-cb1425a6568a2f87775da08321833f9cc628da95e0f745c409c07c1cbd27f51a/bin/debug/E2_corretto.dll
+  total: 11
+  failed: 4
+  succeeded: 7
+  skipped: 0
+  duration: 85ms
+
+===== 08 EPIE DIMITRI EWANG — B E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs(21,31): error CS1061: 'List<(string Name, string Role)>' does not contain a definition for 'Name' and no accessible extension method 'Name' accepting a first argument of type 'List<(string Name, string Role)>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs(22,32): error CS1061: 'List<(string Name, string Role)>' does not contain a definition for 'Role' and no accessible extension method 'Role' accepting a first argument of type 'List<(string Name, string Role)>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs(25,37): error CS1061: 'List<(string Name, string Role)>' does not contain a definition for 'Role' and no accessible extension method 'Role' accepting a first argument of type 'List<(string Name, string Role)>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs(25,19): error CS1061: 'KeyValuePair<string, List<string>>' does not contain a definition for 'containsKey' and no accessible extension method 'containsKey' accepting a first argument of type 'KeyValuePair<string, List<string>>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs(27,24): error CS0029: Cannot implicitly convert type 'System.Collections.Generic.KeyValuePair<string, System.Collections.Generic.List<string>>' to 'System.Collections.Generic.Dictionary<string, System.Collections.Generic.List<string>>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/08_dimitri_ewang_epie_B/E3_CORREZIONE.cs(22,9): error CS0165: Use of unassigned local variable 'RoleAndUsers'
+
+The build failed. Fix the build errors and run again.
+
+===== 09 FRANZONI GABRIELE — C E1 — 11/11 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-09f7bec58f2e3ff0ec3989e1d628fe37df6349b9d7599335fecc19c45d7ae591/bin/debug/E1_CORREZIONE.dll
+  total: 11
+  failed: 0
+  succeeded: 11
+  skipped: 0
+  duration: 74ms
+
+===== 09 FRANZONI GABRIELE — C E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E2_CORREZIONE.cs(21,24): error CS0029: Cannot implicitly convert type 'string' to 'System.Collections.Generic.List<string>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E2_CORREZIONE.cs(24,24): error CS0029: Cannot implicitly convert type 'int' to 'System.Collections.Generic.List<string>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E2_CORREZIONE.cs(17,44): warning CS0162: Unreachable code detected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E2_CORREZIONE.cs(15,32): error CS0161: 'ConsegnaStudente.AnonymizeUserIds(List<int>)': not all code paths return a value
+
+The build failed. Fix the build errors and run again.
+
+===== 09 FRANZONI GABRIELE — C E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs(26,24): error CS0428: Cannot convert method group 'ContainsKey' to non-delegate type 'bool'. Did you intend to invoke the method?
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs(28,34): error CS1061: 'int' does not contain a definition for 'Add' and no accessible extension method 'Add' accepting a first argument of type 'int' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs(35,17): error CS0021: Cannot apply indexing with [] to an expression of type 'method group'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs(35,17): error CS0201: Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/09_gabriele_franzoni_C/E3_CORREZIONE.cs(36,34): error CS1061: 'int' does not contain a definition for 'Add' and no accessible extension method 'Add' accepting a first argument of type 'int' could be found (are you missing a using directive or an assembly reference?)
+
+The build failed. Fix the build errors and run again.
+
+===== 10 GRATTONI GABRIELE — D E1 — 9/9 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-d0534dcd4ffd1d981eb50febf7c6f926628014aa4616baee544d5cf7f865aaa4/bin/debug/E1_CORREZIONE.dll
+  total: 9
+  failed: 0
+  succeeded: 9
+  skipped: 0
+  duration: 82ms
+
+===== 10 GRATTONI GABRIELE — D E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-96c48a7f20621206be77b52f465d6df81a77c7407f27b08234320cf3d9c2ee3c/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 76ms
+
+===== 10 GRATTONI GABRIELE — D E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-6c8d092018f26dc08651a76ba6f20dec220087e0eaeacb145e88409a9b5788e8/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 76ms
+
+===== 11 GRIZZO ROSSANA — E E1 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-1311e63b1b01fed1bde2f8468a3afad69d0832df94f66a738b7f4d6ac9cf9e05/bin/debug/E1_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 79ms
+
+===== 11 GRIZZO ROSSANA — E E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-301861a2119af86634d1fd43015901a6afcc45fef41d006e9b94b560cde77679/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 77ms
+
+===== 11 GRIZZO ROSSANA — E E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-e36af296d38f21d9c0c7671cf346ae1e6bb44f6772a3aa40f39a2e6bb54b4179/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 81ms
+
+===== 12 LACCHIN FILIPPO — F E1 — 5/14 =====
+failed Should_Charge10PerUser_UpTo10Users (7ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 10 utenti * 10€ = 100€.
+  
+  expected: 100
+  actual:   10
+  delta:    0.001
+  
+  Assert.AreEqual(100.0, CalculateLicenseCost(10, false), <delta>)
+  Expected
+    100
+  Actual
+    10
+    at Esercizio1Tests.Should_Charge10PerUser_UpTo10Users() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:58
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_2(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:103
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_Charge8PerUser_Between11And50Users (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 15 utenti = 100€ (primi 10) + 40€ (5 utenti * 8€).
+  
+  expected: 140
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(140.0, CalculateLicenseCost(15, false), <delta>)
+  Expected
+    140
+  Actual
+    8
+    at Esercizio1Tests.Should_Charge8PerUser_Between11And50Users() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:65
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_Apply50PercentDiscount_When_IsNonProfit (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  Regola: 140€ scontati del 50% diventano 70€.
+  
+  expected: 70
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(70.0, CalculateLicenseCost(15, true), <delta>)
+  Expected
+    70
+  Actual
+    8
+    at Esercizio1Tests.Should_Apply50PercentDiscount_When_IsNonProfit() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:72
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateLicense_When_ElevenUsers (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 108
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(108.0, CalculateLicenseCost(11, false), <delta>)
+  Expected
+    108
+  Actual
+    8
+    at Esercizio1Tests.Should_CalculateLicense_When_ElevenUsers() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:103
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateLicense_When_FiftyUsers (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 420
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(420.0, CalculateLicenseCost(50, false), <delta>)
+  Expected
+    420
+  Actual
+    8
+    at Esercizio1Tests.Should_CalculateLicense_When_FiftyUsers() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:109
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateLicense_When_FiftyOneUsers (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 425
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(425.0, CalculateLicenseCost(51, false), <delta>)
+  Expected
+    425
+  Actual
+    8
+    at Esercizio1Tests.Should_CalculateLicense_When_FiftyOneUsers() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:115
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_11(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:319
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateLicense_When_ManyUsers (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 470
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(470.0, CalculateLicenseCost(60, false), <delta>)
+  Expected
+    470
+  Actual
+    8
+    at Esercizio1Tests.Should_CalculateLicense_When_ManyUsers() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:121
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_12(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:343
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateLicense_When_DiscountBelowTen (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 25
+  actual:   10
+  delta:    0.001
+  
+  Assert.AreEqual(25.0, CalculateLicenseCost(5, true), <delta>)
+  Expected
+    25
+  Actual
+    10
+    at Esercizio1Tests.Should_CalculateLicense_When_DiscountBelowTen() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:127
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_13(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:367
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CalculateLicense_When_DiscountAboveFifty (0ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: 212.5
+  actual:   8
+  delta:    0.001
+  
+  Assert.AreEqual(212.5, CalculateLicenseCost(51, true), <delta>)
+  Expected
+    212.5
+  Actual
+    8
+    at Esercizio1Tests.Should_CalculateLicense_When_DiscountAboveFifty() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E1_corretto.cs:133
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_14(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:391
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-2ae42ad93186dacf5eb5b317c4aae3ae7c996644d18bb0a521106a9d4ab10b9d/bin/debug/E1_corretto.dll
+  total: 14
+  failed: 9
+  succeeded: 5
+  skipped: 0
+  duration: 85ms
+
+===== 12 LACCHIN FILIPPO — F E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E2_CORREZIONE.cs(22,26): error CS9176: There is no target type for the collection expression.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E2_CORREZIONE.cs(18,14): warning CS0168: The variable 'result' is declared but never used
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E2_CORREZIONE.cs(15,24): error CS0161: 'ConsegnaStudente.IsStrictlyIncreasing(List<int>)': not all code paths return a value
+
+The build failed. Fix the build errors and run again.
+
+===== 12 LACCHIN FILIPPO — F E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/12_filippo_lacchin_F/E3_CORREZIONE.cs(18,19): error CS1002: ; expected
+
+The build failed. Fix the build errors and run again.
+
+===== 13 MANIAS LUCA — A E1 — 19/19 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-a35fd7d01620a7bfab8bea96b9658266852956859fb033fd4aa7c5a566fba3bd/bin/debug/E1_CORREZIONE.dll
+  total: 19
+  failed: 0
+  succeeded: 19
+  skipped: 0
+  duration: 80ms
+
+===== 13 MANIAS LUCA — A E2 — 7/10 =====
+failed Should_ReturnLastIndex_When_MultipleServerErrorsExist (6ms)
+  Assertion failed. Expected values to be equal.
+  Regola: deve trovare l'ULTIMO errore nella lista (indice 3), non il primo.
+  
+  expected: 3
+  actual:   0
+  
+  Assert.AreEqual(3, FindLastServerErrorIndex([500, 200, 404, 502, 200]))
+  Expected
+    3
+  Actual
+    0
+    at Esercizio2Tests.Should_ReturnLastIndex_When_MultipleServerErrorsExist() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/13_luca_manias_A/E2_corretto.cs:55
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-5c7f2386c6536519a570fed91c9e33a6817773384492051220663c6521e19152/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_FindLastError_When_AllCodesAreErrors (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   0
+  
+  Assert.AreEqual(2, FindLastServerErrorIndex([500, 503, 502]))
+  Expected
+    2
+  Actual
+    0
+    at Esercizio2Tests.Should_FindLastError_When_AllCodesAreErrors() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/13_luca_manias_A/E2_corretto.cs:86
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-5c7f2386c6536519a570fed91c9e33a6817773384492051220663c6521e19152/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_FindLastError_When_ErrorsHaveIrregularPositions (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 4
+  actual:   1
+  
+  Assert.AreEqual(4, FindLastServerErrorIndex([200, 500, 200, 200, 503, 200]))
+  Expected
+    4
+  Actual
+    1
+    at Esercizio2Tests.Should_FindLastError_When_ErrorsHaveIrregularPositions() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/13_luca_manias_A/E2_corretto.cs:92
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-5c7f2386c6536519a570fed91c9e33a6817773384492051220663c6521e19152/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_corretto-5c7f2386c6536519a570fed91c9e33a6817773384492051220663c6521e19152/bin/debug/E2_corretto.dll
+  total: 10
+  failed: 3
+  succeeded: 7
+  skipped: 0
+  duration: 85ms
+
+===== 13 MANIAS LUCA — A E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/13_luca_manias_A/E3_CORREZIONE.cs(15,81): error CS1002: ; expected
+
+The build failed. Fix the build errors and run again.
+
+===== 14 MASTRO CLAUDIO — B E1 — 11/12 =====
+failed Should_CalculateStorage_When_NegativeWithPromotion (6ms)
+  Assertion failed. Expected values to be equal within tolerance.
+  
+  expected: -1
+  actual:   -0.8
+  delta:    0.001
+  
+  Assert.AreEqual(-1.0, CalculateStorageCost(-1, true), <delta>)
+  Expected
+    -1
+  Actual
+    -0.8
+    at Esercizio1Tests.Should_CalculateStorage_When_NegativeWithPromotion() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/14_claudio_mastro_B/E1_CORREZIONE.cs:80
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-79bf9317de9576be7739487fc2096b7485fe795d546ce23a49b9aa7db6182508/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-79bf9317de9576be7739487fc2096b7485fe795d546ce23a49b9aa7db6182508/bin/debug/E1_CORREZIONE.dll
+  total: 12
+  failed: 1
+  succeeded: 11
+  skipped: 0
+  duration: 87ms
+
+===== 14 MASTRO CLAUDIO — B E2 — 7/11 =====
+failed Should_ReturnTrue_When_JumpExceeds50Ms (6ms)
+  Assertion failed. Expected condition to be true.
+  Regola: incremento di 51 ms deve far scattare lo spike.
+  
+  actual: false
+  
+  Assert.IsTrue(HasLatencySpike([10, 61]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_ReturnTrue_When_JumpExceeds50Ms() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/14_claudio_mastro_B/E2_CORREZIONE.cs:55
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-406bdda039a9573968d48fb1cb71ba64514f75c5866e483a95eee0b811d4d71e/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_DetectLatencySpike_When_JumpAtLastPair (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: true
+  actual:   false
+  
+  Assert.AreEqual(true, HasLatencySpike([10, 20, 80]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_DetectLatencySpike_When_JumpAtLastPair() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/14_claudio_mastro_B/E2_CORREZIONE.cs:75
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-406bdda039a9573968d48fb1cb71ba64514f75c5866e483a95eee0b811d4d71e/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_DetectLatencySpike_When_PeakEqualsFirstMeasurement (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: true
+  actual:   false
+  
+  Assert.AreEqual(true, HasLatencySpike([100, 10, 100]))
+  Expected
+    true
+  Actual
+    false
+    at Esercizio2Tests.Should_DetectLatencySpike_When_PeakEqualsFirstMeasurement() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/14_claudio_mastro_B/E2_CORREZIONE.cs:99
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-406bdda039a9573968d48fb1cb71ba64514f75c5866e483a95eee0b811d4d71e/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RejectExactly50MsJump_InsideLongerList (0ms)
+  Assertion failed. Expected condition to be false.
+  
+  actual: true
+  
+  Assert.IsFalse(HasLatencySpike([10, 60, 70]))
+  Expected
+    false
+  Actual
+    true
+    at Esercizio2Tests.Should_RejectExactly50MsJump_InsideLongerList() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/14_claudio_mastro_B/E2_CORREZIONE.cs:105
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_11(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-406bdda039a9573968d48fb1cb71ba64514f75c5866e483a95eee0b811d4d71e/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:319
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-406bdda039a9573968d48fb1cb71ba64514f75c5866e483a95eee0b811d4d71e/bin/debug/E2_CORREZIONE.dll
+  total: 11
+  failed: 4
+  succeeded: 7
+  skipped: 0
+  duration: 81ms
+
+===== 14 MASTRO CLAUDIO — B E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-6521270f8e68752151f3943b0622f98fa786efc88d4ffc63db175863060ba032/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 75ms
+
+===== 15 MEHNI NOUFAL — C E1 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E1_CORREZIONE.cs(18,27): error CS1525: Invalid expression term ')'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E1_CORREZIONE.cs(18,27): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E1_CORREZIONE.cs(18,28): error CS1525: Invalid expression term '}'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E1_CORREZIONE.cs(18,28): error CS1002: ; expected
+
+The build failed. Fix the build errors and run again.
+
+===== 15 MEHNI NOUFAL — C E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs(17,22): error CS9176: There is no target type for the collection expression.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs(18,37): error CS1061: 'List<int>' does not contain a definition for 'length' and no accessible extension method 'length' accepting a first argument of type 'List<int>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs(20,25): error CS1061: 'List<int>' does not contain a definition for 'length' and no accessible extension method 'length' accepting a first argument of type 'List<int>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs(22,36): error CS1061: 'List<int>' does not contain a definition for 'length' and no accessible extension method 'length' accepting a first argument of type 'List<int>' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs(24,20): error CS0029: Cannot implicitly convert type 'string' to 'System.Collections.Generic.List<string>'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E2_CORREZIONE.cs(18,45): warning CS0162: Unreachable code detected
+
+The build failed. Fix the build errors and run again.
+
+===== 15 MEHNI NOUFAL — C E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/15_noufal_mehni_C/E3_CORREZIONE.cs(22,43): error CS1002: ; expected
+
+The build failed. Fix the build errors and run again.
+
+===== 16 NARDER ALBERTO — D E1 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(18,1): error CS1519: Invalid token 'foreach' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(18,15): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(18,15): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(18,15): error CS1519: Invalid token 'in' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(18,27): error CS1519: Invalid token ')' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(20,10): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(20,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(20,10): error CS1519: Invalid token '<=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(23,10): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(23,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(23,10): error CS1519: Invalid token '%' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(23,24): error CS1519: Invalid token '%' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(26,10): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(26,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(26,10): error CS1519: Invalid token '%' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(29,10): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(29,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(29,10): error CS1519: Invalid token '%' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E1_CORREZIONE.cs(36,1): error CS1022: Type or namespace definition, or end-of-file expected
+
+The build failed. Fix the build errors and run again.
+
+===== 16 NARDER ALBERTO — D E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(18,1): error CS1519: Invalid token 'foreach' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(18,15): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(18,15): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(18,15): error CS1519: Invalid token 'in' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(18,25): error CS1519: Invalid token ')' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(21,6): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(21,6): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(21,6): error CS1519: Invalid token '%' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(22,7): error CS1519: Invalid token '=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(22,11): error CS1519: Invalid token '+' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E2_CORREZIONE.cs(30,1): error CS1022: Type or namespace definition, or end-of-file expected
+
+The build failed. Fix the build errors and run again.
+
+===== 16 NARDER ALBERTO — D E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E3_CORREZIONE.cs(15,24): error CS0708: 'ConsegnaStudente.ValidateApiKeyAccess': cannot declare instance members in a static class
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/16_alberto_narder_D/E3_CORREZIONE.cs(15,5): error CS0305: Using the generic type 'Dictionary<TKey, TValue>' requires 2 type arguments
+
+The build failed. Fix the build errors and run again.
+
+===== 17 NERI LEONARDO — E E1 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-3a76e1b286faeece637bb0c184b034b79152d5321bed5647cc7683c16063c80d/bin/debug/E1_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 81ms
+
+===== 17 NERI LEONARDO — E E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-6d1e5ee6da6952ddbe5b67a9b59b86c83383a931e5529fc2f7f09d617342774f/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 76ms
+
+===== 17 NERI LEONARDO — E E3 — 1/8 =====
+failed Should_GroupIpsByCountryCode (7ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   3
+  
+  Assert.AreEqual(2, result.Count)
+  Expected
+    2
+  Actual
+    3
+    at Esercizio3Tests.Should_GroupIpsByCountryCode() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:46
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_2(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:103
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_GroupEveryIp_When_SingleIp (0ms)
+  Test method Esercizio3Tests.Should_GroupEveryIp_When_SingleIp threw exception:
+  System.Collections.Generic.KeyNotFoundException: The given key 'IT' was not present in the dictionary.
+    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+    at Esercizio3Tests.Should_GroupEveryIp_When_SingleIp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:56
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+    
+failed Should_GroupEveryIp_When_OneCountry (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 1
+  actual:   2
+  
+  Assert.AreEqual(1, result.Count)
+  Expected
+    1
+  Actual
+    2
+    at Esercizio3Tests.Should_GroupEveryIp_When_OneCountry() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:63
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_4(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:151
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_GroupEveryIp_When_DifferentCountries (0ms)
+  Test method Esercizio3Tests.Should_GroupEveryIp_When_DifferentCountries threw exception:
+  System.Collections.Generic.KeyNotFoundException: The given key 'IT' was not present in the dictionary.
+    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+    at Esercizio3Tests.Should_GroupEveryIp_When_DifferentCountries() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:72
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_5(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:175
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+    
+failed Should_GroupEveryIp_When_InterleavedCountries (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   4
+  
+  Assert.AreEqual(2, result.Count)
+  Expected
+    2
+  Actual
+    4
+    at Esercizio3Tests.Should_GroupEveryIp_When_InterleavedCountries() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:81
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_6(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:199
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_GroupEveryIp_When_DuplicateIps (0ms)
+  Test method Esercizio3Tests.Should_GroupEveryIp_When_DuplicateIps threw exception:
+  System.Collections.Generic.KeyNotFoundException: The given key 'IT' was not present in the dictionary.
+    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+    at Esercizio3Tests.Should_GroupEveryIp_When_DuplicateIps() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:91
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+    
+failed Should_GroupEveryIp_When_SameIpDifferentCountries (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, result.Count)
+  Expected
+    2
+  Actual
+    1
+    at Esercizio3Tests.Should_GroupEveryIp_When_SameIpDifferentCountries() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/17_leonardo_neri_E/E3_CORREZIONE.cs:98
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_8(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:247
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-0aceaf34025276dc7ff2c0f8ace6616d1009012d823b2000ea4353cda52ee5b8/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 7
+  succeeded: 1
+  skipped: 0
+  duration: 82ms
+
+===== 18 NOGARÈ LEONARDO — F E1 — 14/14 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-ba2ba48069e76fae75e9ffd474d4102b33a7a6ee45390fd18719dd94cc8241fb/bin/debug/E1_CORREZIONE.dll
+  total: 14
+  failed: 0
+  succeeded: 14
+  skipped: 0
+  duration: 78ms
+
+===== 18 NOGARÈ LEONARDO — F E2 — 11/11 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-34a64b91e975a641f9bede503d5adce5623b381bb6d32ac4430d1969c133e7ab/bin/debug/E2_CORREZIONE.dll
+  total: 11
+  failed: 0
+  succeeded: 11
+  skipped: 0
+  duration: 75ms
+
+===== 18 NOGARÈ LEONARDO — F E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-5b8ed584f0e5cbc1993d1df517d0bcddf8168ca7941817b50e6d9ee1b06e65d1/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 81ms
+
+===== 19 PARO GIOVANNI — A E1 — 13/19 =====
+failed Should_ReturnInvalidData_When_CpuIsNegative (13ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (12) and differ at 1 location(s). First difference at index 7.
+  Regola: percentuali sotto lo 0% non sono valide.
+  
+  expected:   "INVALID_DATA"
+  actual:     "INVALID DATA"
+  difference: expected [[_]]; actual [[<space>]]
+  
+  Assert.AreEqual("INVALID_DATA", EvaluateServerStatus(-1, 50, 70))
+  Expected
+    "INVALID_DATA"
+  Actual
+    "INVALID DATA"
+    at Esercizio1Tests.Should_ReturnInvalidData_When_CpuIsNegative() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs:42
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_1(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:79
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_ReturnInvalidData_When_CpuIsAbove100 (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (12) and differ at 1 location(s). First difference at index 7.
+  Regola: percentuali sopra il 100% non sono valide.
+  
+  expected:   "INVALID_DATA"
+  actual:     "INVALID DATA"
+  difference: expected [[_]]; actual [[<space>]]
+  
+  Assert.AreEqual("INVALID_DATA", EvaluateServerStatus(101, 50, 70))
+  Expected
+    "INVALID_DATA"
+  Actual
+    "INVALID DATA"
+    at Esercizio1Tests.Should_ReturnInvalidData_When_CpuIsAbove100() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs:49
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_2(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:103
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_ReturnInvalidData_When_RamIsNegative (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (12) and differ at 1 location(s). First difference at index 7.
+  Regola: RAM sotto lo 0% deve invalidare i dati.
+  
+  expected:   "INVALID_DATA"
+  actual:     "INVALID DATA"
+  difference: expected [[_]]; actual [[<space>]]
+  
+  Assert.AreEqual("INVALID_DATA", EvaluateServerStatus(50, -5, 70))
+  Expected
+    "INVALID_DATA"
+  Actual
+    "INVALID DATA"
+    at Esercizio1Tests.Should_ReturnInvalidData_When_RamIsNegative() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs:56
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectStatusRule_When_RamIsAbove100 (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (12) and differ at 1 location(s). First difference at index 7.
+  
+  expected:   "INVALID_DATA"
+  actual:     "INVALID DATA"
+  difference: expected [[_]]; actual [[<space>]]
+  
+  Assert.AreEqual("INVALID_DATA", EvaluateServerStatus(50, 101, 50))
+  Expected
+    "INVALID_DATA"
+  Actual
+    "INVALID DATA"
+    at Esercizio1Tests.Should_RespectStatusRule_When_RamIsAbove100() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs:98
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectStatusRule_When_InvalidCpuTakesPriorityOverCriticalTemperature (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (12) and differ at 1 location(s). First difference at index 7.
+  
+  expected:   "INVALID_DATA"
+  actual:     "INVALID DATA"
+  difference: expected [[_]]; actual [[<space>]]
+  
+  Assert.AreEqual("INVALID_DATA", EvaluateServerStatus(-1, 50, 100))
+  Expected
+    "INVALID_DATA"
+  Actual
+    "INVALID DATA"
+    at Esercizio1Tests.Should_RespectStatusRule_When_InvalidCpuTakesPriorityOverCriticalTemperature() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs:104
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectStatusRule_When_InvalidRamTakesPriorityOverHighLoad (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (12) and differ at 1 location(s). First difference at index 7.
+  
+  expected:   "INVALID_DATA"
+  actual:     "INVALID DATA"
+  difference: expected [[_]]; actual [[<space>]]
+  
+  Assert.AreEqual("INVALID_DATA", EvaluateServerStatus(95, 101, 90))
+  Expected
+    "INVALID_DATA"
+  Actual
+    "INVALID DATA"
+    at Esercizio1Tests.Should_RespectStatusRule_When_InvalidRamTakesPriorityOverHighLoad() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E1_CORREZIONE.cs:110
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_11(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:319
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-473580417da45874552a93227dbdccf212dd7df8a49afa8cb8efdd96ab649396/bin/debug/E1_CORREZIONE.dll
+  total: 19
+  failed: 6
+  succeeded: 13
+  skipped: 0
+  duration: 91ms
+
+===== 19 PARO GIOVANNI — A E2 — 5/10 =====
+failed Should_ReturnZero_When_ServerErrorIsAtFirstPosition (6ms)
+  Assertion failed. Expected values to be equal.
+  Regola: unico errore all'indice 0.
+  
+  expected: 0
+  actual:   1
+  
+  Assert.AreEqual(0, FindLastServerErrorIndex([500, 200, 200]))
+  Expected
+    0
+  Actual
+    1
+    at Esercizio2Tests.Should_ReturnZero_When_ServerErrorIsAtFirstPosition() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs:55
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-75c58aa41597fafb68f2da4b2aa503c201c52e0b06036df720a5e0a9c598ccba/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_FindLastError_When_Only500 (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 0
+  actual:   1
+  
+  Assert.AreEqual(0, FindLastServerErrorIndex([500]))
+  Expected
+    0
+  Actual
+    1
+    at Esercizio2Tests.Should_FindLastError_When_Only500() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs:81
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-75c58aa41597fafb68f2da4b2aa503c201c52e0b06036df720a5e0a9c598ccba/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_FindLastError_When_ErrorIsAtLastPosition (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, FindLastServerErrorIndex([200, 404, 500]))
+  Expected
+    2
+  Actual
+    1
+    at Esercizio2Tests.Should_FindLastError_When_ErrorIsAtLastPosition() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs:87
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_8(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-75c58aa41597fafb68f2da4b2aa503c201c52e0b06036df720a5e0a9c598ccba/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:247
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_FindLastError_When_AllCodesAreErrors (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   5
+  
+  Assert.AreEqual(2, FindLastServerErrorIndex([500, 503, 502]))
+  Expected
+    2
+  Actual
+    5
+    at Esercizio2Tests.Should_FindLastError_When_AllCodesAreErrors() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs:93
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-75c58aa41597fafb68f2da4b2aa503c201c52e0b06036df720a5e0a9c598ccba/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_FindLastError_When_ErrorsHaveIrregularPositions (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 4
+  actual:   3
+  
+  Assert.AreEqual(4, FindLastServerErrorIndex([200, 500, 200, 200, 503, 200]))
+  Expected
+    4
+  Actual
+    3
+    at Esercizio2Tests.Should_FindLastError_When_ErrorsHaveIrregularPositions() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E2_CORREZIONE.cs:99
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-75c58aa41597fafb68f2da4b2aa503c201c52e0b06036df720a5e0a9c598ccba/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-75c58aa41597fafb68f2da4b2aa503c201c52e0b06036df720a5e0a9c598ccba/bin/debug/E2_CORREZIONE.dll
+  total: 10
+  failed: 5
+  succeeded: 5
+  skipped: 0
+  duration: 84ms
+
+===== 19 PARO GIOVANNI — A E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs(22,37): error CS1061: 'string' does not contain a definition for 'item1' and no accessible extension method 'item1' accepting a first argument of type 'string' could be found (are you missing a using directive or an assembly reference?)
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs(22,17): error CS0021: Cannot apply indexing with [] to an expression of type 'method group'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs(22,17): error CS0201: Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs(26,17): error CS0021: Cannot apply indexing with [] to an expression of type 'method group'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/19_giovanni_paro_A/E3_CORREZIONE.cs(26,17): error CS0201: Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+
+The build failed. Fix the build errors and run again.
+
+===== 20 PINATO EDDY — B E1 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E1_CORREZIONE.cs(22,9): error CS0103: The name 'elseif' does not exist in the current context
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E1_CORREZIONE.cs(26,9): error CS0103: The name 'elseif' does not exist in the current context
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E1_CORREZIONE.cs(30,9): error CS0103: The name 'elseif' does not exist in the current context
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E1_CORREZIONE.cs(15,26): error CS0161: 'ConsegnaStudente.CalculateStorageCost(int, bool)': not all code paths return a value
+
+The build failed. Fix the build errors and run again.
+
+===== 20 PINATO EDDY — B E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(16,1): error CS1519: Invalid token '{' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(17,11): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(17,11): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(17,11): error CS1519: Invalid token '=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(17,18): error CS1519: Invalid token '<=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(17,25): error CS1519: Invalid token '++' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(19,25): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(19,25): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(19,25): error CS1519: Invalid token '>' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(19,42): error CS1519: Invalid token ')' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(21,30): error CS1519: Invalid token '(' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(21,31): error CS1031: Type expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(21,31): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(21,31): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(21,31): error CS1519: Invalid token 'true' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(23,1): error CS8803: Top-level statements must precede namespace and type declarations.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(22,10): error CS8641: 'else' cannot start a statement.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(22,10): error CS1003: Syntax error, '(' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(22,10): error CS1525: Invalid expression term 'else'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(22,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(22,10): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(27,5): error CS1022: Type or namespace definition, or end-of-file expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(28,1): error CS1022: Type or namespace definition, or end-of-file expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E2_CORREZIONE.cs(29,1): error CS1022: Type or namespace definition, or end-of-file expected
+
+The build failed. Fix the build errors and run again.
+
+===== 20 PINATO EDDY — B E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/20_eddy_pinato_B/E3_CORREZIONE.cs(15,52): error CS0501: 'ConsegnaStudente.GroupUsersByRole(List<(string Name, string Role)>)' must declare a body because it is not marked abstract, extern, or partial
+
+The build failed. Fix the build errors and run again.
+
+===== 21 SANTONI CHIARA — C E1 — 7/11 =====
+failed Should_RedirectHttps_When_ProtocolIsHttp (7ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (14) and differ at 1 location(s). First difference at index 10.
+  Regola: il protocollo HTTP ha precedenza su rete interna e richiede reindirizzamento HTTPS.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "REDIRECT_HHTPS"
+  difference: -----------^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(80, true, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "REDIRECT_HHTPS"
+    at Esercizio1Tests.Should_RedirectHttps_When_ProtocolIsHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E1_corretto.cs:63
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_3(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-4b40d7537b3659cbd7984f60b31064fa3dd1458f1af325742f353320ec8bd16c/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:127
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectFirewallPriority_When_HttpsPortUsesHttp (2ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (14) and differ at 1 location(s). First difference at index 10.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "REDIRECT_HHTPS"
+  difference: -----------^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(443, false, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "REDIRECT_HHTPS"
+    at Esercizio1Tests.Should_RespectFirewallPriority_When_HttpsPortUsesHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E1_corretto.cs:90
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-4b40d7537b3659cbd7984f60b31064fa3dd1458f1af325742f353320ec8bd16c/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectFirewallPriority_When_InternalSshUsesHttp (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (14) and differ at 1 location(s). First difference at index 10.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "REDIRECT_HHTPS"
+  difference: -----------^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(22, true, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "REDIRECT_HHTPS"
+    at Esercizio1Tests.Should_RespectFirewallPriority_When_InternalSshUsesHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E1_corretto.cs:96
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_8(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-4b40d7537b3659cbd7984f60b31064fa3dd1458f1af325742f353320ec8bd16c/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:247
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_RespectFirewallPriority_When_ExternalHttp (0ms)
+  Assertion failed. Expected strings to be equal.
+  Strings have same length (14) and differ at 1 location(s). First difference at index 10.
+  
+  expected:   "REDIRECT_HTTPS"
+  actual:     "REDIRECT_HHTPS"
+  difference: -----------^
+  
+  Assert.AreEqual("REDIRECT_HTTPS", EvaluateFirewallRule(80, false, "HTTP"))
+  Expected
+    "REDIRECT_HTTPS"
+  Actual
+    "REDIRECT_HHTPS"
+    at Esercizio1Tests.Should_RespectFirewallPriority_When_ExternalHttp() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E1_corretto.cs:102
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-4b40d7537b3659cbd7984f60b31064fa3dd1458f1af325742f353320ec8bd16c/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_corretto-4b40d7537b3659cbd7984f60b31064fa3dd1458f1af325742f353320ec8bd16c/bin/debug/E1_corretto.dll
+  total: 11
+  failed: 4
+  succeeded: 7
+  skipped: 0
+  duration: 81ms
+
+===== 21 SANTONI CHIARA — C E2 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(18,1): error CS1519: Invalid token 'foreach' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(18,15): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(18,15): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(18,15): error CS1519: Invalid token 'in' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(18,25): error CS1519: Invalid token ')' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(20,12): error CS1031: Type expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(20,12): error CS1003: Syntax error, ',' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(20,17): error CS1003: Syntax error, '>' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(20,17): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(20,17): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(21,5): error CS1519: Invalid token '{' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(22,17): error CS1519: Invalid token ';' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(24,1): error CS8803: Top-level statements must precede namespace and type declarations.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(23,6): error CS8641: 'else' cannot start a statement.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(23,6): error CS1003: Syntax error, '(' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(23,6): error CS1525: Invalid expression term 'else'
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(23,6): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(23,6): error CS1002: ; expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(28,1): error CS1022: Type or namespace definition, or end-of-file expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E2_CORREZIONE.cs(31,1): error CS1022: Type or namespace definition, or end-of-file expected
+
+The build failed. Fix the build errors and run again.
+
+===== 21 SANTONI CHIARA — C E3 — Non compila =====
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,1): error CS1519: Invalid token 'for' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,10): error CS8124: Tuple must contain at least two elements.
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,10): error CS1026: ) expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,10): error CS1519: Invalid token '=' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,33): error CS1003: Syntax error, '>' expected
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,33): error CS1519: Invalid token ';' in a member declaration
+/Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/21_chiara_santoni_C/E3_CORREZIONE.cs(18,36): error CS1519: Invalid token '++' in a member declaration
+
+The build failed. Fix the build errors and run again.
+
+===== 22 SOLONYSHYN MAKSYM — D E1 — 9/9 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-1018a1053ab5ea3d2fe54206272d0eaa04edf0c30e8618dd57808430cdb169d9/bin/debug/E1_CORREZIONE.dll
+  total: 9
+  failed: 0
+  succeeded: 9
+  skipped: 0
+  duration: 79ms
+
+===== 22 SOLONYSHYN MAKSYM — D E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-c97cce6245dcd7bca61acd49e4a8d02212079249fdf6872453c8c57a06637853/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 76ms
+
+===== 22 SOLONYSHYN MAKSYM — D E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-8be1601b901fdd575aa5c791ce8ef4dabf827a6ac18113c654c1066443a369f8/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 75ms
+
+===== 23 SPINA MATTEO — E E1 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-cf03c67dbc7d7a58c43471bc32d62f158b3a2676177657c84b663192ecbe48c1/bin/debug/E1_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 79ms
+
+===== 23 SPINA MATTEO — E E2 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-cb736303c314f64a37acea19915dbcdde0ca9d4d13010e3af285dd3e32f7e6a6/bin/debug/E2_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 75ms
+
+===== 23 SPINA MATTEO — E E3 — 8/8 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-484e4fe3f4e5d74712969f93577adbd8ec57b9710745f4c64289f9baafc1925b/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 0
+  succeeded: 8
+  skipped: 0
+  duration: 83ms
+
+===== 24 TEGON MOIRA — F E1 — 14/14 =====
+
+Test run summary: Passed! - /Users/venir/Library/Application Support/dotnet/runfile/E1_CORREZIONE-9f8a5be52afa428ee6356b19d6e93c639d49c3be85aac7cea1be2fdbf6615e98/bin/debug/E1_CORREZIONE.dll
+  total: 14
+  failed: 0
+  succeeded: 14
+  skipped: 0
+  duration: 79ms
+
+===== 24 TEGON MOIRA — F E2 — 6/11 =====
+failed Should_ReturnFalse_When_AdjacentElementsAreEqual (6ms)
+  Assertion failed. Expected condition to be false.
+  Regola: 3 == 3 non è 'STRETTAMENTE' crescente.
+  
+  actual: true
+  
+  Assert.IsFalse(IsStrictlyIncreasing([1, 3, 3, 5]))
+  Expected
+    false
+  Actual
+    true
+    at Esercizio2Tests.Should_ReturnFalse_When_AdjacentElementsAreEqual() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs:42
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_2(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-9c50b13c3885f12a7226c1bdc8a5db3dc485d59e582288af774c9caf67b3b6da/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:103
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CheckEveryPair_When_TwoEqual (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: false
+  actual:   true
+  
+  Assert.AreEqual(false, IsStrictlyIncreasing([3, 3]))
+  Expected
+    false
+  Actual
+    true
+    at Esercizio2Tests.Should_CheckEveryPair_When_TwoEqual() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs:74
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-9c50b13c3885f12a7226c1bdc8a5db3dc485d59e582288af774c9caf67b3b6da/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CheckEveryPair_When_TwoDecreasing (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: false
+  actual:   true
+  
+  Assert.AreEqual(false, IsStrictlyIncreasing([5, 2]))
+  Expected
+    false
+  Actual
+    true
+    at Esercizio2Tests.Should_CheckEveryPair_When_TwoDecreasing() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs:80
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_8(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-9c50b13c3885f12a7226c1bdc8a5db3dc485d59e582288af774c9caf67b3b6da/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:247
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CheckEveryPair_When_OnlyLastPairDecreases (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: false
+  actual:   true
+  
+  Assert.AreEqual(false, IsStrictlyIncreasing([1, 3, 2]))
+  Expected
+    false
+  Actual
+    true
+    at Esercizio2Tests.Should_CheckEveryPair_When_OnlyLastPairDecreases() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs:86
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_9(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-9c50b13c3885f12a7226c1bdc8a5db3dc485d59e582288af774c9caf67b3b6da/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:271
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+failed Should_CheckEveryPair_When_OnlyLastPairIsEqual (0ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: false
+  actual:   true
+  
+  Assert.AreEqual(false, IsStrictlyIncreasing([1, 2, 2]))
+  Expected
+    false
+  Actual
+    true
+    at Esercizio2Tests.Should_CheckEveryPair_When_OnlyLastPairIsEqual() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/24_moira_tegon_F/E2_CORREZIONE.cs:92
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_10(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-9c50b13c3885f12a7226c1bdc8a5db3dc485d59e582288af774c9caf67b3b6da/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:295
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E2_CORREZIONE-9c50b13c3885f12a7226c1bdc8a5db3dc485d59e582288af774c9caf67b3b6da/bin/debug/E2_CORREZIONE.dll
+  total: 11
+  failed: 5
+  succeeded: 6
+  skipped: 0
+  duration: 80ms
+
+===== 24 TEGON MOIRA — F E3 — 7/8 =====
+failed Should_CountEveryWord_When_EmptyWord (6ms)
+  Assertion failed. Expected values to be equal.
+  
+  expected: 2
+  actual:   1
+  
+  Assert.AreEqual(2, result.Count)
+  Expected
+    2
+  Actual
+    1
+    at Esercizio3Tests.Should_CountEveryWord_When_EmptyWord() in /Users/venir/Documents/development/clod-2026-programming-base/test/correzioni/24_moira_tegon_F/E3_CORREZIONE.cs:106
+    at MSTest.SourceGenerated.MSTestReflectionMetadata.<>c.<.cctor>b__7_7(Object instance, Object[] args) in /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-e81ededfc693e8e7a1b273a1d798255955270d3b2771182a7d9dec3344a1ac93/obj/debug/MSTest.SourceGeneration/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.SourceGeneration.Generators.MSTestReflectionMetadataGenerator/MSTestReflectionMetadata.Registry.g.cs:223
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Extensions.MethodInfoExtensions.GetInvokeResultWithParametersAsync(MethodInfo methodInfo, Object classInstance, ParameterInfo[] methodParameters, Object[] arguments)
+    at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Execution.TestMethodInfo.ExecuteInternalAsync(Object[] arguments, CancellationTokenSource timeoutTokenSource, TestInvocationState invocationState)
+
+Test run summary: Failed! - /Users/venir/Library/Application Support/dotnet/runfile/E3_CORREZIONE-e81ededfc693e8e7a1b273a1d798255955270d3b2771182a7d9dec3344a1ac93/bin/debug/E3_CORREZIONE.dll
+  total: 8
+  failed: 1
+  succeeded: 7
+  skipped: 0
+  duration: 85ms
